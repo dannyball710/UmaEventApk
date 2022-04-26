@@ -2,7 +2,7 @@
 
 [官方網站](https://umaevents.io/)
 
-[線上版馬娘事件簿](https://umaevents.io/online)
+[線上版](https://umaevents.io/online)
 
 ## 下載連結(Download Links)
 * [Google Play](https://play.google.com/store/apps/details?id=net.dcje.android.umaevents)

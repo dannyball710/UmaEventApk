@@ -6,6 +6,13 @@
 
 ## 更新紀錄
 
+### 1.6.14
+* 修復移除廣告後購買紀錄消失的問題
+
+* [更多資訊(繁體中文)](https://umaevents.io/news/fEjsRKUa)
+
+* [更多資訊(簡體中文)](https://umaevents.io/news/5MePSrd1)
+
 ### 1.6.13
 * 修復Android 13出現「資訊不足」的問題
 
